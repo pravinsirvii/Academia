@@ -86,13 +86,25 @@ margin-top: -2px;
  img{
   width: 100%;
   margin: 2px auto;
-
-  
  }
- .logo{
-  float: left;
-   margin-left: -1400px;
-  /* margin-top: 45px; */ 
-  
-  
+
+
+
+ .logo2{
+ width: 10%;
+ float: left;
+ margin-top: -28px;
+ margin-bottom: -31px;
+ margin-left: 10px;
+ 
+ }
+
+ .flexSB {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: nowrap;
+  flex-direction: row;
+  align-content: center;
+  align-items: center;
+  font-size: 30px !important;
  }
